@@ -1,0 +1,4 @@
+﻿  player.cpp
+c:\users\florentino garcia\desktop\universidad\unitec\programación iii\brick game\brickgame2 - copia (3)\brickgame3\player.cpp(33): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\florentino garcia\desktop\universidad\unitec\programación iii\brick game\brickgame2 - copia (3)\brickgame3\player.cpp(42): warning C4309: 'inicializando': truncamiento de valor constante
+  BrickGame3.vcxproj -> C:\Users\FLORENTINO GARCIA\Desktop\Universidad\UNITEC\Programación III\Brick Game\BrickGame2 - copia (3)\Debug\BrickGame3.exe
